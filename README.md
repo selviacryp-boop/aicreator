@@ -1,0 +1,2 @@
+# aicreator
+Coin AICreator
